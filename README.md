@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mostofa Masud
 
-<!--
-**mostofa-masud/mostofa-masud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and a competitive programmer focused on C++.
 
-Here are some ideas to get you started:
+I am an active competitor on Codeforces: [MostofaMasud](https://codeforces.com/profile/MostofaMasud)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside algorithmic problem solving, I build backend web applications and work with database systems.
+
+## Skills
+
+* **Languages:** C, C++, JavaScript, Go
+* **Databases:** MySQL
+* **Tools & Platforms:** Git, GitHub
+
+## Competitive Programming
+
+* Active competitive programmer in C++
+* Dedicated to algorithmic problem-solving and upsolving
+* Regular participant in IUPC contests
+* Participated in ICPC
